@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Bruna, estudando de tecnologia com foco na engenharia de software. 
+Eu sou Bruna, estudante de tecnologia com foco na engenharia de software. 
 
 
 [![Linkedin: bruna-bettiol](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-bettiol/)](https://www.linkedin.com/in/bruna-bettiol/)
