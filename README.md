@@ -7,7 +7,8 @@ Eu sou Bruna, estudante de tecnologia com foco na engenharia de software.
 
 ____
 
-### 📹 Cursos recente que fiz
+### 📹 Cursos recentes que fiz
+
 - [Alura | HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/course/html5-css3-avancando-css)
 - [Alura | JavaScript: tipos, variáveis e funções](https://cursos.alura.com.br/course/fundamentos-javascript-tipos-variaveis-funcoes)
 - [Alura | JavaScript: programação orientada a objetos](https://cursos.alura.com.br/course/javascript-passos-programacao-orientada-objetos)
