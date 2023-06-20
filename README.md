@@ -23,3 +23,9 @@ Aqui estão algumas tecnologias que estou estudando:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+## 🚀 Projetos
+
+Tive a oportunidade de desenvolver alguns projetos fora e dentro da TI, abaixo alguns deles que sinto muito orgulho:
+
+![Projeto de atendimento mais eficiente durante a pandemia](https://github.com/brunabettiol/projeto-atendimento-agil)
