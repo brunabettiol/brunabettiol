@@ -28,4 +28,4 @@ Aqui estão algumas tecnologias que estou estudando:
 
 Tive a oportunidade de desenvolver alguns projetos fora e dentro da TI, abaixo alguns deles que sinto muito orgulho:
 
-![Projeto de atendimento mais eficiente durante a pandemia](https://github.com/brunabettiol/projeto-atendimento-agil)
+👩‍⚕️  [Projeto de atendimento mais eficiente durante a pandemia](https://github.com/brunabettiol/projeto-atendimento-agil)
